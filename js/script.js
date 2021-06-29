@@ -76,7 +76,7 @@
 
 // const isCheked=false,
 //       isClose= false;
-console.log(isClose||!isCheked);
+// console.log(isClose||!isCheked);
 
 
 
